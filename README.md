@@ -5,24 +5,6 @@
 </br>
 </div>
 
-<h2 align="center">Special Sponsors</h3>
-<div align="center">  
-<a href="https://e.coding.net/?utm_source=JavaGuide" target="_blank">
-  <img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-3/Coding Devops.png" width=""/>
- </a>
-</br>
-</div>
-
-## 阅读之前必看
-
-[《深入拆解Java虚拟机》](#深入拆解Java虚拟机)。
-
-1. **加群：** 微信交流群添加 [我的微信](#联系我) 后回复关键字“加群”即可入群。
-2. **Java工程师必备学习资源:** 一些Java工程师常用学习资源[公众号](#公众号)后台回复关键字 **“1”** 即可免费无套路获取。 
-3. **《Java面试突击》:** 由本文档衍生的专为面试而生的《Java面试突击》V2.0 PDF 版本[公众号](#公众号)后台回复 **"Java面试突击"** 即可免费领取！
-4. **关于贡献者:** 对本仓库提过有价值的 issue 或 pr 的小伙伴将出现在 [Contributor](#Contributor) 这里。
-5. **欢迎投稿：** 由于我个人能力有限，很多知识点我可能没有涉及到，所以你可以对其他知识点进行补充。**对于不错的原创文章我根据你的选择给予现金(50-300)、付费专栏或者任选书籍进行奖励！所以，快提 pr 或者邮件的方式（邮件地址在主页）给我投稿吧！** 当然，我觉得奖励是次要的，最重要的是你可以从自己整理知识点的过程中学习到很多知识。
-
 ## 目录
 
 * [Java](#java)
